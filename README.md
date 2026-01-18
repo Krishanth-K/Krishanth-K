@@ -6,31 +6,19 @@ I build things that are fast, efficient, and sometimes unnecessarily optimized (
 
 ## 🏢 Organization Projects
 
-### 🌿 [EcoRoute Optimizer](link) • *cin-and-cout*
+### 🌿 [EcoRoute Optimizer](https://github.com/cin-and-cout/Deadlock) • *cin-and-cout*
 **Smart routing for a greener future**  
 Multi-dimensional route optimization based on fuel efficiency, CO2 emissions, elevation, weather, and traffic patterns.
 
----
-
-### 🌲 [PNG-Tree](link) • *cin-and-cout*
+### 🌲 [PNG-Tree](https://github.com/cin-and-cout/png-tree) • *cin-and-cout*
 **Segment tree-based PNG manipulation**  
 Case study comparing quadtree SegmentTree vs. naive vectors for image editing operations with comprehensive benchmarking.
 
 ---
 
-## 💻 Selected Personal Projects
-
-**🎨 [Stencil](link)** — Multi-platform UI generator: 1 YAML config → HTML/React/Flutter/ImGui/Curses  
-**⚡ [mem-alloc](link)** — High-performance C allocator with explicit free lists and O(1) free operations  
-**🖼️ [2D Image Processor](link)** — Quadtree SegmentTree 1,000,000× faster than naive vector for full-image ops  
-**🔍 [hex-dump](link)** — Fast hex viewer using mmap + Aho-Corasick for file type detection  
-**🎮 [Game of Life](link)** — C++ cellular automaton with SFML  
-
----
-
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/krishanth-k/) • [Email](link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishanth-k/)
 
 ---
 
