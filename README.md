@@ -1,38 +1,21 @@
-#  Hi, I'm Krishanth
+# Krishanth
 
-I build things that are fast, efficient, and sometimes unnecessarily optimized (in a good way). From custom memory allocators to quadtree-based image processors, I'm all about understanding how systems work under the hood—then making them better. Currently exploring performance optimization, systems programming, and building tools that solve real problems.
-
----
-
-## 🏢 Organization Projects
-
-### [EcoRoute Optimizer](https://github.com/cin-and-cout/Deadlock) • *cin-and-cout*
-**Smart routing for a greener future**  
-Multi-dimensional route optimization based on fuel efficiency, CO2 emissions, elevation, weather, and traffic patterns.
-
-### [PNG-Tree](https://github.com/cin-and-cout/png-tree) • *cin-and-cout*
-**Segment tree-based PNG manipulation**  
-Case study comparing quadtree SegmentTree vs. naive vectors for image editing operations with comprehensive benchmarking.
+Software engineer focused on systems programming, performance optimization, and AI infrastructure.
 
 ---
 
-## 📫 Connect
+## Organization Projects ([cin-and-cout](https://github.com/cin-and-cout))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishanth-k/)
+| Project | Key Focus | Stack |
+| :--- | :--- | :--- |
+| **[Hybrid Model Router](https://github.com/cin-and-cout/hybrid-model-router)** | Adaptive LLM cascading router (Local 0.5B to Remote 70B) with logprob entropy evaluation and semantic caching. | Python, Docker, Ollama, Fireworks AI |
+| **[Claim Consistency Tracker](https://github.com/cin-and-cout/cognee)** | Real-time political speech statement consistency tracking using temporal graph memory and hybrid NLI classification. | Python, FastAPI, Cognee, WebSockets |
+| **[EcoRoute Optimizer](https://github.com/cin-and-cout/Deadlock)** | Multi-dimensional routing engine optimizing fuel consumption, CO2 emissions, elevation profiles, and weather. | C++, Spatial Data, Optimization |
+| **[PNG-Tree](https://github.com/cin-and-cout/png-tree)** | Benchmark comparing Quadtree Segment Trees against naive vector representations for pixel manipulation. | C++, Data Structures, Benchmarking |
 
 ---
 
-<!--
-**Krishanth-K/Krishanth-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishanth-k/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/krishh_k/)
