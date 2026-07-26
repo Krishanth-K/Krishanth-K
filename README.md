@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krishanth
+#  Hi, I'm Krishanth
 
 I build things that are fast, efficient, and sometimes unnecessarily optimized (in a good way). From custom memory allocators to quadtree-based image processors, I'm all about understanding how systems work under the hood—then making them better. Currently exploring performance optimization, systems programming, and building tools that solve real problems.
 
@@ -6,11 +6,11 @@ I build things that are fast, efficient, and sometimes unnecessarily optimized (
 
 ## 🏢 Organization Projects
 
-### 🌿 [EcoRoute Optimizer](https://github.com/cin-and-cout/Deadlock) • *cin-and-cout*
+### [EcoRoute Optimizer](https://github.com/cin-and-cout/Deadlock) • *cin-and-cout*
 **Smart routing for a greener future**  
 Multi-dimensional route optimization based on fuel efficiency, CO2 emissions, elevation, weather, and traffic patterns.
 
-### 🌲 [PNG-Tree](https://github.com/cin-and-cout/png-tree) • *cin-and-cout*
+### [PNG-Tree](https://github.com/cin-and-cout/png-tree) • *cin-and-cout*
 **Segment tree-based PNG manipulation**  
 Case study comparing quadtree SegmentTree vs. naive vectors for image editing operations with comprehensive benchmarking.
 
